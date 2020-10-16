@@ -1,9 +1,3 @@
-<%-- 
-    Document   : imc
-    Created on : 22 de set. de 2020, 21:07:30
-    Author     : WENNIS
---%>
-
 <%@page import="br.com.wennis.Imc"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
